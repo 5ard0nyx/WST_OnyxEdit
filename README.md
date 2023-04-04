@@ -2,6 +2,13 @@
 <img src="https://github.com/LeftHandedGlove/WeaponSwingTimerAddon/blob/master/Images/wst_logo_shadow.png?raw=true" width="50%" height="50%" title="WST_Logo" class="center">
 </p>
 
+# NOTICE
+I, 5ard0nyx, am not the developer of the original WeaponSwingTimer. Furthermore I maintain no affiliation with any of the developers associated with the original project. As of 4/4/2023 the purpose of this project is primarily just to get myself oriented with the practices related to developing Lua addons in World of Warcraft.
+
+Addon is provided AS-IS and with no guarantee of support, or commitment thereto. While I would appreciate any feedback or bug reports, I'm unlikely to address them promptly if at all.
+
+Beyond this point is the documentation for the original addon. I'll update this if any significant change is made to the addon.
+
 # WeaponSwingTimer
 WeaponSwingTimer is an addon for WoW Classic that tracks your's and your target's swing timers.
 
